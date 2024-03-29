@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: e0caea2bf9dee444db1f6aa36c8f8226
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 38b73fe3e1ab7694fb33bdc739d0e26e
+  - enabled: 1
+    path: Assets/Scenes/B1/UEH B1.unity
+    guid: 488539c440ff5bd4d9edd582a6e6f167
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T1/B1_T1_1.unity
+    guid: 8ac7268bc5869f34cae2d913e50c59c6
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T1/B1_T1_2.unity
+    guid: 89f0dcf695cd9b74191d98059c186032
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T1/B1_T1_3.unity
+    guid: c3eeb766f4262194dbeeb8455baf20c9
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T1/B1_T1_3_5.unity
+    guid: 7fca0a71b6824ce49af4ab350b9adf71
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T1/B1_T1_BOSS_ROOM.unity
+    guid: 837da1dc4739ba54f8df8849dbfcca0a
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T1/B1_T1_4.unity
+    guid: da2c60d51b1c44f4bafeef6121472811
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T1/B1_T1_5.unity
+    guid: e55918286093196439d5b85964d0d21f
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T2/B1_T2_1.unity
+    guid: f65feef38041d6d43a407b2c67bd4b59
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T2/B1_T2_2.unity
+    guid: 358feb014e260004d9c7ffa402d4b4ba
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T2/B1_T2_3.unity
+    guid: 00a056c84852c7844b112817e158083f
+  - enabled: 1
+    path: Assets/Scenes/B1/B1_T2/B1_T2_BOSS_R.unity
+    guid: 36e17cc5457647342a7728493538cb10
+  - enabled: 1
+    path: "Assets/Scenes/B2/B2_Tr\u1EC7t.unity"
+    guid: dcff5b632b685a4478302158926cefeb
+  - enabled: 1
+    path: Assets/Scenes/B2/B2_Tret_2/B2_Tret_1.unity
+    guid: e6f38e1cdc94ce143beee2c902489b20
+  - enabled: 1
+    path: Assets/Scenes/B2/B2_Tret_2/B2_Tret_2.unity
+    guid: eb24a0fdcc94d96419f899120724a769
+  - enabled: 1
+    path: Assets/Scenes/B2/B2_Tret_2/B2_Tret_3.unity
+    guid: 8cf407b57f386204cbe91047ad325830
+  - enabled: 1
+    path: Assets/Scenes/B2/B2_T2/B2_T2_1.unity
+    guid: ad9fb443e3573bb498f9b3f484873e0f
+  - enabled: 1
+    path: Assets/Scenes/B2/B2_T2/B2_T2_2.unity
+    guid: 7cf47ec7442536149b8c2e350407f5cb
+  - enabled: 1
+    path: Assets/Scenes/B2/B2_T2/B2_T2_3.unity
+    guid: cc56dd67cc21e724681db0d5d4507deb
+  - enabled: 1
+    path: Assets/Scenes/N2/N2_1_1.unity
+    guid: 9fa642ba37f8607489e0331b2a4f5d80
+  - enabled: 1
+    path: Assets/Scenes/N2/N2_1_2.unity
+    guid: 14109613b3872ed449066dec2f3acc1a
+  - enabled: 1
+    path: Assets/Scenes/N2/N2_2.unity
+    guid: d167a98e551aeda49bea918410c3f848
+  - enabled: 1
+    path: Assets/Scenes/N2/N2_BOSS_R.unity
+    guid: 0363b12ba8be882468d74aab7114972d
+  - enabled: 1
+    path: Assets/Scenes/A/A/A_1.unity
+    guid: 23a8d4cd2776fcd42a714d34bce4921d
+  - enabled: 1
+    path: Assets/Scenes/A/A/A_2.unity
+    guid: d9d6bfca253b5fe44b9ca28885d0907e
+  - enabled: 1
+    path: Assets/Scenes/A/A/A_BOSS_R.unity
+    guid: 75a728701611a9348bae03d3e4ffb9ee
+  - enabled: 1
+    path: Assets/Scenes/A/A_T1/A_T1_1.unity
+    guid: 83963a202bb8ade45b15331967e303da
+  - enabled: 1
+    path: Assets/Scenes/A/A_T1/A_T1_2.unity
+    guid: 7617a26df698a1f40b9473ea81d898f0
+  - enabled: 1
+    path: Assets/Scenes/A/A_T1/A_T1_3.unity
+    guid: 81c91178cdaac1344b577a9846c8b089
+  m_configObjects: {}

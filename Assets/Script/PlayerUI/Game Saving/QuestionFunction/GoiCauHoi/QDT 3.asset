@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e1c1f3c11d6ca4db74cd2ea888e9b0, type: 3}
+  m_Name: QDT 3
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: "Quy t\u1EAFc \u1EE9ng x\u1EED chung tr\xEAn m\u1EA1ng x\xE3 h\u1ED9i
+      t\u1EA1i Vi\u1EC7t Nam bao g\u1ED3m nh\u1EEFng n\u1ED9i dung n\xE0o?"
+    replies:
+    - "Quy t\u1EAFc L\xE0nh m\u1EA1nh"
+    - "T\u1EA5t c\u1EA3 c\xE1c quy t\u1EAFc \u0111\xE3 n\xEAu"
+    - "Quy t\u1EAFc An to\xE0n, b\u1EA3o m\u1EADt th\xF4ng tin v\xE0 Quy t\u1EAFc
+      Tr\xE1ch nhi\u1EC7m"
+    - "Quy t\u1EAFc T\xF4n tr\u1ECDng, tu\xE2n th\u1EE7 ph\xE1p lu\u1EADt"
+    correctReplyIndex: 1

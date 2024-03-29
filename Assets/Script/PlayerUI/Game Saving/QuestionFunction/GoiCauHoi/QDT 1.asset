@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e1c1f3c11d6ca4db74cd2ea888e9b0, type: 3}
+  m_Name: QDT 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: "Trong qu\xE1 tr\xECnh h\u1ECDc t\u1EA1i UEH, sinh vi\xEAn c\xF3
+      \u0111\u01B0\u1EE3c ph\xE9p \u0111\u0103ng k\xFD h\u1ECDc ch\u01B0\u01A1ng
+      tr\xECnh \u0111\xE0o t\u1EA1o th\u1EE9 hai kh\xF4ng?"
+    replies:
+    - "\u0110\u01B0\u1EE3c, nh\u01B0ng ph\u1EA3i \u0111\xE1p \u1EE9ng \u0111i\u1EC1u
+      ki\u1EC7n theo quy \u0111\u1ECBnh"
+    - "\u0110\u01B0\u1EE3c, v\xE0 kh\xF4ng c\u1EA7n \u0111i\u1EC1u ki\u1EC7n theo
+      quy \u0111\u1ECBnh"
+    - "Kh\xF4ng"
+    - "Kh\xF4ng, sinh vi\xEAn kh\xF4ng \u0111\u01B0\u1EE3c \u0111\u0103ng k\xFD,
+      vi\u1EC7c h\u1ECDc ch\u01B0\u01A1ng tr\xECnh \u0111\xE0o t\u1EA1o th\u1EE9
+      hai do tr\u01B0\u1EDDng s\u1EAFp x\u1EBFp"
+    correctReplyIndex: 0
