@@ -9,6 +9,8 @@
 
 - Tạo hành động cho Boss
 ![image](https://github.com/Superherocode/Project/assets/144640862/ad128aec-b334-46ca-86b8-8c04eba33727)
+- Đây là một phần đoạn code của hành động con BOSS
+![image](https://github.com/Superherocode/Project/assets/144640862/b6985f0c-407a-43bf-8818-b9912ee10a72)
 
 Và em đã bỏ vào trong dự án của nhóm nó sẽ như này![image](https://github.com/Superherocode/Project/assets/144640862/4befb321-3bc7-4cc0-84a0-0f2ac127f88c)
 ![image](https://github.com/Superherocode/Project/assets/144640862/1b695cba-bae9-40f8-908e-a1deb6248a7b)
